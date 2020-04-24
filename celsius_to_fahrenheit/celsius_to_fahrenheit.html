@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  </head>
+  <body>
+    <div id="convert-box" ng-app ng-init="celsius=0;diff=32">
+      <h1>Celsius to Fahrenheit Converter</h1>
+      <p>Enter an amount below and you'll get<br> the instant converted number in Fahrenheit.<br> Built using Angular JS.</p>
+      <br>
+      <p>Celsius: <input type="text" ng-model="celsius"></p>
+      <p>Fehrenheit: {{ celsius*1.8+diff }}</p>
+    </div>
+  </body>
