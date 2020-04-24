@@ -1,0 +1,22 @@
+body {
+  background-color: lightGrey;
+  font-family: verdana;
+  font-size: 16px;
+}
+#convert-box {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: white;
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+input {
+  font-size: 16px;
+  border-radius: 10px;
+  width: 4em;
+}
+h1 {
+  font-size: 18px;
+}
