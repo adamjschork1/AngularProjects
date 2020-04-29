@@ -1,0 +1,28 @@
+body {
+  font-family: Quicksand;
+  font-size: 20px;
+}
+
+ul {
+  
+}
+
+input {
+  font-size: 20px;
+  padding: 5px;
+}
+
+button {
+  font-family: Quicksand;
+  font-size: 20px;
+  padding: 5px;
+  width: 100px;
+}
+
+button:hover {
+  background-color: lightBlue;
+}
+
+#todoBox {
+  margin: 40px;
+}
