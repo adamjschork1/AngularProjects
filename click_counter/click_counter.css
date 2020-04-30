@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: ;
+}
+#clickyBox {
+  margin-top: 40px;
+  font-size: 80px;
+}
+button {
+  font-size: 18px;
+  padding: 10px;
+  background-image: linear-gradient(blue, indigo);
+  color: white;
+  font-family: verdana;
+  border-radius: 4px;
+  width: 150px;
+}
